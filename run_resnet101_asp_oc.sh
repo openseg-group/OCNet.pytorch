@@ -40,8 +40,7 @@ $PYTHON -u train.py --network $NETWORK --method $METHOD --random-mirror --random
   --snapshot-dir $SNAPSHOT_DIR  --num-steps $MAX_ITERS --ohem $USE_OHEM --data-list $DATA_LIST_PATH --weight-decay $WEIGHT_DECAY \
   --input-size $INPUT_SIZE --ohem-thres $OHEMTHRES --ohem-keep $OHEMKEEP --use-val $USE_VAL_SET --use-weight $USE_CLASS_BALANCE \
   --snapshot-dir $SNAPSHOT_DIR --restore-from $RESTORE_FROM --start-iters $START_ITERS --learning-rate $LEARNING_RATE  \
-  --use-extra $USE_EXTRA_SET --dataset $DATASET --data-dir $DATA_DIR
-   # > $TRAIN_LOG_FILE 2>&1
+  --use-extra $USE_EXTRA_SET --dataset $DATASET --data-dir $DATA_DIR > $TRAIN_LOG_FILE 2>&1
 
 
 # testing settings
