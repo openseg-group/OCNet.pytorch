@@ -89,6 +89,10 @@ scikit-learn
 cv2
 ~~~~
 
+Just install the offical pytorch with **pip install torch torchvision** is OK.
+
+We mainly test all of our results based on the official pytorch 0.4.0.
+
 
 
 ### Train/Validate/Test the OCNet (Cityscapes)
