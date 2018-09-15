@@ -107,6 +107,8 @@ sh run_asp_oc.sh
 
 You are expected to achieve ~79.5 mIoU on the validation set/ ~78.3 mIoU on the testing set (single scale).
 
+You are also recommended to try the **run_base_oc.sh**, which can also achieve ~79.3 mIoU on the validation set / ~78.1 mIoU on the testing set (single scale).
+
 To further improve the performance, you can employ the **CriterionOhemDSN_single** by setting that
 
 ~~~~
