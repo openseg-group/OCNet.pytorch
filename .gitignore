@@ -1,0 +1,8 @@
+log/*
+checkpoint/
+visualize/
+pretrained_model/
+*.pyc
+*.pth
+*.pth.tar
+*.png

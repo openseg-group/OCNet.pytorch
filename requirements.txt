@@ -1,0 +1,7 @@
+torch>=0.4
+torchvision
+tensorboardX
+pillow
+tqdm
+h5py
+scikit-learn
