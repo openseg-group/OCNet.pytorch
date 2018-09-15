@@ -81,7 +81,7 @@ All the experiments on Cityscapes should run on pytorch0.4.
 
 ### Requirements
 ~~~~
-torch=0.4.0
+torch=0.4.1
 torchvision
 tensorboardX
 pillow
@@ -93,7 +93,7 @@ cv2
 
 Just install the offical pytorch with **pip install torch torchvision** is OK.
 
-We mainly test all of our results based on the official pytorch 0.4.0.
+We mainly test all of our results based on the official pytorch 0.4.1.
 
 
 
