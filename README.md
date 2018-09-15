@@ -1,5 +1,7 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch)
 
+**Welcome to share higher reproduced performance than the numbers reported in the paper.**
+
 ![Overall Framework of OCNet](OCNet.png?raw=true)
 
 Please check the paper [OCNet](https://arxiv.org/pdf/1809.00916.pdf) here.
