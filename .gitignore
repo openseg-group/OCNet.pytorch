@@ -5,4 +5,3 @@ pretrained_model/
 *.pyc
 *.pth
 *.pth.tar
-*.png
