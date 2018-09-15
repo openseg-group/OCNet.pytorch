@@ -4,7 +4,6 @@
 
 Please check the paper [OCNet](https://arxiv.org/pdf/1809.00916.pdf) here.
 
-**We will release all of implementation before 2018/09/16.**.
 
 You are welcome to share our work with your friends. [zhihu share](https://zhuanlan.zhihu.com/p/43902175)
 
