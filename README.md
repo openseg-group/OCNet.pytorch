@@ -91,7 +91,7 @@ cv2
 
 
 
-### Train/Validate/Test the OCNet 
+### Train/Validate/Test the OCNet (Cityscapes)
 
 We implement training, validating, testing in one script for convenience. You can achieve all the results by runing this script.
 
