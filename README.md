@@ -180,4 +180,6 @@ This project is created based on the base code (deeplabv3, PSPnet with sync bn) 
 
 [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding)
 
+[semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
+
 
