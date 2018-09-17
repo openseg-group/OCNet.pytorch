@@ -68,9 +68,7 @@ class CriterionDSN(nn.Module):
 
 class CriterionOhemDSN(nn.Module):
     '''
-    DSN + Ohem: we find that use hard-mining for both supervision harms the performance.
-                Thus we choose the original loss for the shallow supervision
-                and the hard-mining loss for the deeper supervision
+    DSN + OHEM : We need to consider two supervision for the model.
     '''
     def __init__(self, ignore_index=255, thres=0.7, min_kept=100000, dsn_weight=0.4, use_weight=True):
         super(CriterionOhemDSN, self).__init__()
@@ -95,7 +93,9 @@ class CriterionOhemDSN(nn.Module):
 
 class CriterionOhemDSN_single(nn.Module):
     '''
-    DSN : We need to consider two supervision for the model.
+    DSN + OHEM : we find that use hard-mining for both supervision harms the performance.
+                Thus we choose the original loss for the shallow supervision
+                and the hard-mining loss for the deeper supervision
     '''
     def __init__(self, ignore_index=255, thres=0.7, min_kept=100000, dsn_weight=0.4):
         super(CriterionOhemDSN_single, self).__init__()
