@@ -119,7 +119,7 @@ OHEMKEEP=100000
 
 then you could expect to achieve ~80.4 mIoU on the validation set/ ~79.0 mIoU on the testing set (single scale).
 
-To achieve the 81.2 on the testing set, you need to train the model with both the training set and validation set for 80,000 iterations first(achieve ~80.5 on the testing set), then you need to finetune this model for 100,000 iterations with fixed learning rate(1e-4). We adopt the online hard example mining accordingly.
+To achieve the 81.2 on the testing set, you need to train the model with both the training set and validation set for 80,000 iterations first(achieve ~80.5 on the testing set(multiple-scale + flip)), then you need to finetune this model for 100,000 iterations with fixed learning rate(1e-4). We adopt the online hard example mining accordingly.
 
 
 ## Data preparation
