@@ -114,10 +114,7 @@ def main():
             else:
                 criterion = CriterionOhemDSN(thres=args.ohem_thres, min_kept=args.ohem_keep, dsn_weight=float(args.dsn_weight), use_weight=True)
         else:
-            if "pair" in args.method:
-                criterion = CriterionDSN_Pair(dsn_weight=float(args.dsn_weight), pair_weight=float(args.pair_weight), use_weight=True)        
-            else:
-                criterion = CriterionDSN(dsn_weight=float(args.dsn_weight), use_weight=True)
+            criterion = CriterionDSN(dsn_weight=float(args.dsn_weight), use_weight=True)
 
 
     criterion = DataParallelCriterion(criterion)
