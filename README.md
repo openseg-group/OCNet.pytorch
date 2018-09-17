@@ -169,7 +169,7 @@ For example, if you run the base-oc method for two times, you can achieve 79.3 a
 Thus I recommend to you to run our methods for multiple times if you want to achieve good performance on the testing set while our method performs pretty robust on the validation set as the reason of the distribution gaps between the training/validation set and the testing set.
 
 ## Acknowledgment
-This project is created based on the base code (deeplabv3, PSPnet with sync bn) provided by [Zilong Huang](https://github.com/speedinghzl). He retains all the copyright of the base code. 
+This project is created based on the reproduced Deeplabv3, PSPNet (pytorch) provided by [Zilong Huang](https://github.com/speedinghzl) and he retains all the copyright of the  Deeplabv3, PSPNet related code. 
 
 ## Thanks to the Third Party Libs
 [InplaceABN](https://github.com/mapillary/inplace_abn)
