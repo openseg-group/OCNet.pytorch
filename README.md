@@ -72,7 +72,7 @@ EncNet |  CVPR2018  | ResNet-101  |  44.65
 
 
 ## Enviroment
-The code is developed using python 3.5+ on Ubuntu 16.04. NVIDIA GPUs ared needed. The code is tested using 4 x NVIDIA P100 GPUS cards.
+The code is developed using python 3.6+ on Ubuntu 16.04. NVIDIA GPUs ared needed. The code is tested using 4 x NVIDIA P100 GPUS cards.
 All the experiments on Cityscapes are tested on pytorch0.4.1. 
 
 
