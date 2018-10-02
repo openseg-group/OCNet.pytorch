@@ -75,6 +75,16 @@ EncNet |  CVPR2018  | ResNet-101  |  44.65
 The code is developed using python 3.6+ on Ubuntu 16.04. NVIDIA GPUs ared needed. The code is tested using 4 x NVIDIA P100 GPUS cards.
 All the experiments on Cityscapes are tested on pytorch0.4.1. 
 
+If you can only access TITAX Pascal / TITAN-1080Ti GPUs, you are recommended to modify the parameter **size** within the base-oc,
+
+```
+self.context = nn.Sequential(
+            nn.Conv2d(2048, 512, kernel_size=3, stride=1, padding=1),
+            InPlaceABNSync(512),
+            BaseOC_Module(in_channels=512, out_channels=512, key_channels=256, value_channels=256, 
+            dropout=0.05, sizes=([2]))
+            )
+```
 
 ## Quick start
 
