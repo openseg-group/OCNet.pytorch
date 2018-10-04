@@ -6,6 +6,7 @@
 
 Please check the paper [OCNet](https://arxiv.org/pdf/1809.00916.pdf) here.
 
+We will futher release the code on the ADE20K dataset once the star count exceeds **300**.
 
 You are welcome to share our work with your friends. [zhihu share](https://zhuanlan.zhihu.com/p/43902175)
 
