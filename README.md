@@ -1,6 +1,6 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch)
 
-**!!!Welcome to share higher reproduced performance than the numbers reported in the paper.**
+**!!!OCNet can achieves 45.45 on the validation set of ADE20K currently.**
 
 ![Overall Framework of OCNet](OCNet.png?raw=true)
 
