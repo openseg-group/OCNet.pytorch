@@ -69,7 +69,18 @@ PSPNet | CVPR2017  | ResNet-101  |  43.29
 SAC |  ICCV2017  |  ResNet-101  |  44.30  
 PSANet  |  ECCV2018  |  ResNet-101  |  43.77  
 EncNet |  CVPR2018  | ResNet-101  |  44.65
-**OCNet** | - |  ResNet-101 | **45.08**
+**OCNet** | - |  ResNet-101 | **45.45**
+
+
+The current performance on the LIP validation set of the OCNet
+
+Method | Conference | Backbone | val mIoU(\%) 
+---- | --- | --- | --- 
+DeepLab-v2 | -  | ResNet-101  |  44.80  
+JPPNet  |  PAMI2018  |  ResNet-101  |  44.30  
+MMAN    |  PAMI2018  |  ResNet-101  |  43.77  
+CE2P    |  arXiv     | ResNet-101   |  53.10
+**OCNet** | - |  ResNet-101 | **53.63**
 
 
 ## Enviroment
