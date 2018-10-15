@@ -72,7 +72,7 @@ EncNet |  CVPR2018  | ResNet-101  |  44.65
 **OCNet** | - |  ResNet-101 | **45.45**
 
 
-The current performance on the LIP validation set of the OCNet
+The current performance on the LIP validation set of the OCNet. We simply replace the PSP module with ASP-OC module within the [CE2P](https://github.com/liutinglt/CE2P) framework.
 
 Method | Conference | Backbone | val mIoU(\%) 
 ---- | --- | --- | --- 
