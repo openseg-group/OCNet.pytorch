@@ -78,7 +78,7 @@ Method | Conference | Backbone | val mIoU(\%)
 ---- | --- | --- | --- 
 DeepLab-v2 | -  | ResNet-101  |  44.80  
 JPPNet  |  PAMI2018  |  ResNet-101  |  44.30  
-MMAN    |  PAMI2018  |  ResNet-101  |  43.77  
+MMAN    |  ECCV2018  |  ResNet-101  |  43.77  
 CE2P    |  arXiv     | ResNet-101   |  53.10
 **OCNet** | - |  ResNet-101 | **53.63**
 
