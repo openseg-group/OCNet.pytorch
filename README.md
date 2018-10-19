@@ -77,7 +77,7 @@ The current performance on the LIP validation set of the OCNet. We simply replac
 Method | Conference | Backbone | val mIoU(\%) 
 ---- | --- | --- | --- 
 DeepLab-v2 | ICLR2015  | ResNet-101  |  44.80
-Attention |  CVPR2017  |  ResNet-101  |  47.92 
+Attention+SSL |  CVPR2017  |  ResNet-101  |  44.59 
 SS-NAN    |  CVPR2017  |  ResNet-101  |  47.92 
 MMAN    |  ECCV2018  |  ResNet-101  |  46.81
 MuLA    |  ECCV2018  |  ResNet-101  |  49.30
