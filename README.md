@@ -81,7 +81,7 @@ SS-NAN    |  CVPR2017  |  ResNet-101  |  47.92
 MMAN    |  ECCV2018  |  ResNet-101  |  46.81
 MuLA    |  ECCV2018  |  ResNet-101  |  49.30
 JPPNet  |  PAMI2018  |  ResNet-101  |  51.37
-CE2P    |  arXiv     | ResNet-101   |  53.10
+CE2P    |  AAAI2019     | ResNet-101   |  53.10
 **OCNet** | - |  ResNet-101 | **54.72**
 
 
