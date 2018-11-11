@@ -1,5 +1,6 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch)
 
+**!!!OCNet can achieves 81.54 on the test set of Cityscapes currently. (2018/11/11)!!! We will keep improving OCNet.**
 **!!!OCNet can achieves 45.45 on the validation set of ADE20K currently.**
 
 ![Overall Framework of OCNet](OCNet.png?raw=true)
