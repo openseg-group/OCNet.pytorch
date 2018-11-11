@@ -175,10 +175,14 @@ def predict_whole_img_w_label(net, image, classes, method, scale, label):
         interp = nn.Upsample(size=(H_, W_), mode='bilinear', align_corners=True)
     else:
         interp = nn.Upsample(size=(H_, W_), mode='bilinear')
-    if scale != 1:
-        scaled_img = ndimage.zoom(image, (1.0, 1.0, scale, scale), order=1, prefilter=False)
-    else:
-        scaled_img = image
+
+#     bug
+#     if scale > 1:
+#         scaled_img = ndimage.zoom(image, (1.0, 1.0, scale, scale), order=1, prefilter=False)
+#     else:
+#         scaled_img = image
+
+    scaled_img = ndimage.zoom(image, (1.0, 1.0, scale, scale), order=1, prefilter=False)
     
     full_prediction_ = net(Variable(torch.from_numpy(scaled_img), volatile=True).cuda(), label)
     if 'dsn' in method or 'center' in method or 'fuse' in method:
