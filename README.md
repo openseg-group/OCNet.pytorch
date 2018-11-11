@@ -47,7 +47,7 @@ All of our implementation is based on pytorch, OCNet can achieve competitive per
 
 The current performance on the Cityscapes test set of OCNet trained with only the fine-labeled set,
 
-(**it seems that we only employ two scales [1x, 1.25x] for testing on Cityscapes ... We will report the results that employ more scales latter. We are sure that we can further improve the performance of OCNet.**)
+(**fix the bug of multi-scale testing**)
 
 
 Method | Conference | Backbone | mIoU(\%) 
