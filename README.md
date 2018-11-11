@@ -2,7 +2,9 @@
 
 Update on 2018/11/11
 
-**!!!OCNet can achieves 81.54 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x]. H**
+**!!!OCNet can achieves 81.54 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].**
+
+**Better performance is on the way ...**
 
 **!!!OCNet can achieves 45.45 on the validation set of ADE20K currently.**
 
