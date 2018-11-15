@@ -8,7 +8,7 @@ Update on 2018/11/11
 
 **OCNet achieves 45.45 on the validation set of ADE20K currently.**
 
-![Overall Framework of OCNet](oc_module.pdf?raw=true)
+![Overall Framework of OCNet](OCNet.png?raw=true)
 
 Please check the paper [OCNet](https://arxiv.org/pdf/1809.00916.pdf) here.
 
