@@ -2,11 +2,11 @@
 
 Update on 2018/11/11
 
-**!!!OCNet can achieves 81.54 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].**
+**OCNet achieves 81.67 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].**
 
 **Better performance is on the way ...**
 
-**!!!OCNet can achieves 45.45 on the validation set of ADE20K currently.**
+**OCNet achieves 45.45 on the validation set of ADE20K currently.**
 
 ![Overall Framework of OCNet](OCNet.png?raw=true)
 
@@ -64,7 +64,7 @@ PSANet |  ECCV2018  | ResNet-101  |  80.1
 DFN  |  CVPR2018  | ResNet-101  |  79.3 
 DSSPN | CVPR2018  | ResNet-101  | 77.8 
 DenseASPP  |  CVPR2018  | DenseNet-161  |  80.6
-**OCNet** | - |  ResNet-101 | **81.5**
+**OCNet** | - |  ResNet-101 | **81.7**
 
 
 The current performance on the ADE20K validation set of the OCNet
