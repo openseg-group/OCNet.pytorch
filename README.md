@@ -1,6 +1,6 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch) 
 
-Update on 2018/11/11
+Update on 2018/11/20. Please check the updated paper for more accurate details and illustrations [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
 
 **OCNet achieves 81.67 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].**
 
@@ -8,7 +8,7 @@ Update on 2018/11/11
 
 ![Overall Framework of OCNet](OCNet.png?raw=true)
 
-Please check the paper [OCNet](https://arxiv.org/pdf/1809.00916.pdf) here.
+Please check the paper updated [OCNet](https://arxiv.org/pdf/1809.00916.pdf) here.
 
 We will futher release the code on the ADE20K dataset once the star count exceeds **300**.
 
