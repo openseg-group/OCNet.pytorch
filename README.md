@@ -1,5 +1,9 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch) 
 
+**We will release the optimized method that can reduce the memory cost and computation cost largely with
+some simple yet effective tricks**
+
+
 Update on 2018/11/20. Please check the updated paper for more accurate details and illustrations [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
 
 **OCNet achieves 81.67 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].**
