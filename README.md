@@ -1,6 +1,6 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch) 
 
-**We will release the optimized method that can reduce the memory cost and computation cost largely with
+**Update on 2018/11/23. We will release the optimized method that can reduce the memory cost and computation cost largely with
 some simple yet effective tricks**
 
 
