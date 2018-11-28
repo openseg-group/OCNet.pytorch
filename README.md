@@ -4,7 +4,7 @@
 <h2>
 
 ```diff
-- Our work is submitted to the arXiv on Tue, 4 Sep 2018.
++ Our work is submitted to the arXiv on Tue, 4 Sep 2018.
 + The concurrent work DANet is submitted to the arXiv on Sun, 9 Sep 2018.
 ```
 
