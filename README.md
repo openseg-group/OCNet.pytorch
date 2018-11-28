@@ -5,15 +5,15 @@
 The Base-OC is similar to the DANet.**
 
 
-**Update on 2018/11/23. We will release the optimized method that can reduce the memory cost and computation cost largely with
-some simple yet effective tricks**
+Update on 2018/11/23. We will release the optimized method that can reduce the memory cost and computation cost largely with
+some simple yet effective tricks
 
 
 Update on 2018/11/20. Please check the updated paper for more accurate details and illustrations [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
 
-**OCNet achieves 81.67 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].**
+OCNet achieves 81.67 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].
 
-**OCNet achieves 45.45 on the validation set of ADE20K currently.**
+OCNet achieves 45.45 on the validation set of ADE20K currently.
 
 ![Overall Framework of OCNet](OCNet.png?raw=true)
 
