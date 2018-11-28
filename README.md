@@ -1,9 +1,14 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch) 
 
 
-**Our work is submitted to the arXiv on Tue, 4 Sep 2018 while the concurrent work DANet is submitted to the arXiv on Sun, 9 Sep 2018.
-The Base-OC is similar to the DANet.**
+<h2>
 
+```diff
+- Our work is submitted to the arXiv on Tue, 4 Sep 2018.
++ The concurrent work DANet is submitted to the arXiv on Sun, 9 Sep 2018.
+```
+
+</h2>
 
 Update on 2018/11/23. We will release the optimized method that can reduce the memory cost and computation cost largely with
 some simple yet effective tricks
