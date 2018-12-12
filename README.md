@@ -10,7 +10,7 @@
 
 </h2>
 
-Update on 2018/12/04. We plan to refactor all of our implementations in the future weeks. Keep waiting, and we plan to release the optimized method that can reduce the memory cost and computation cost largely if we can ensure the performance is OK.
+Update on 2018/12/04. We plan to refactor all of our implementations in the future weeks. Keep waiting, and we plan to release the optimized method that can **reduce the memory cost and computation cost largely**.
 
 
 Update on 2018/11/20. Please check the updated paper for more accurate details and illustrations [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
