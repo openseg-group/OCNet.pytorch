@@ -32,7 +32,7 @@ Please consider citing our work if you find it helps you,
 @article{OCNet,
   title={OCNet: Object Context Network for Scene Parsing},
   author={Yuhui Yuan, Jingdong Wang},
-  journal={arXiv preprint arXiv:1809.00916},
+  journal={arXiv:1809.00916},
   year={2018}
 }
 ```
