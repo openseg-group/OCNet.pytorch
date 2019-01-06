@@ -10,7 +10,8 @@
 
 </h2>
 
-Update on 2018/12/13. We will release the optimized method that can **reduce the memory cost and computation cost largely**. (Training on **4 X 1080Ti** is OK!)  Please keep waiting, we will release the code for cityscapes firstly and then the optimized code on the ADE20K.
+Update on 2018/12/13. We will try to release the newly optimized code base that can **reduce the memory cost and computation cost largely**. (Training on **4 X 1080Ti** is OK!)  
+Please keep waiting, the new code base is more clean and achieves better performance than the current code base.
 
 
 Update on 2018/11/20. Please check the updated paper for more accurate details and illustrations [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
@@ -23,7 +24,6 @@ OCNet achieves 45.45 on the validation set of ADE20K currently.
 
 Please check the paper updated [OCNet](https://arxiv.org/pdf/1809.00916.pdf) here.
 
-We will futher release the code on the ADE20K dataset once the star count exceeds **300**.
 
 You are welcome to share our work with your friends. [zhihu share](https://zhuanlan.zhihu.com/p/43902175)
 
