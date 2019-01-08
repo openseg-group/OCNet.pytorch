@@ -10,7 +10,9 @@
 
 </h2>
 
-Update on 2018/12/13. We will try to release the newly optimized code base that can **reduce the memory cost and computation cost largely**. (Training on **4 X TITANX** is OK!)  
+Update on 2019/01/08. We will release the **openseg.pytorch** code base, and **4 X TITAN X** is enough to reproduce most of the experiments.  
+
+
 Please keep waiting, the new code base is more clean and achieves better performance than the current code base.
 
 
