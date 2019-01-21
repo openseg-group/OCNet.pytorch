@@ -10,10 +10,12 @@
 
 </h2>
 
-Update on 2019/01/08. We will release the **openseg.pytorch** code base, and **4 X TITAN X** is enough to reproduce most of the experiments.  
+Update on 2019/01/21.  
 
+[**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch)
 
-Please keep waiting, the new code base is more clean and achieves better performance than the current code base.
+We will share the source code of Fast-OCNet, which achieves comparable performance with the OCNet while consumes much less GPU memory and runs much faster than the counter part of OCNet.
+
 
 
 Update on 2018/11/20. Please check the updated paper for more accurate details and illustrations [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
