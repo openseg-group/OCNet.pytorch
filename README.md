@@ -12,7 +12,7 @@
 
 Update on 2019/01/21.  
 
-[**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch)
+[**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch) is released.
 
 We will share the source code of Fast-OCNet, which achieves comparable performance with the OCNet while consumes much less GPU memory and runs much faster than the counter part of OCNet.
 
