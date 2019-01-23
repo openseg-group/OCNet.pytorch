@@ -12,13 +12,15 @@
 
 Update on 2019/01/21.  
 
+We have fixed some issues of the paper and update the paper at [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
+
 [**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch) is released.
 
 We will share the source code of Fast-OCNet, which achieves comparable performance with the OCNet while consumes much less GPU memory and runs much faster than the counter part of OCNet.
 
 
 
-Update on 2018/11/20. Please check the updated paper for more accurate details and illustrations [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
+
 
 OCNet achieves 81.67 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].
 
