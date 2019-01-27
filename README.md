@@ -10,6 +10,12 @@
 
 </h2>
 
+Update on 2019/01/27.
+
+You can achieve 82.0+ on the test set of Cityscapes with our Fast-OCNet easily.
+Please wait for the checkpoints and all the codes of [**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch).
+
+
 Update on 2019/01/21.  
 
 We have fixed some issues of the paper and update the paper at [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
