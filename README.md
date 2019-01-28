@@ -44,7 +44,7 @@ Please consider citing our work if you find it helps you,
 ```
 @article{OCNet,
   title={OCNet: Object Context Network for Scene Parsing},
-  author={Yuhui Yuan, Jingdong Wang},
+  author={Yuhui Yuan and Jingdong Wang},
   journal={arXiv:1809.00916},
   year={2018}
 }
