@@ -42,10 +42,10 @@ You are welcome to share our work with your friends. [zhihu share](https://zhuan
 
 Please consider citing our work if you find it helps you,
 ```
-@article{OCNet,
-  title={OCNet: Object Context Network for Scene Parsing},
-  author={Yuhui Yuan and Jingdong Wang},
-  journal={arXiv:1809.00916},
+@article{yuan2018ocnet,
+  title={Ocnet: Object context network for scene parsing},
+  author={Yuan, Yuhui and Wang, Jingdong},
+  journal={arXiv preprint arXiv:1809.00916},
   year={2018}
 }
 ```
