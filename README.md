@@ -12,7 +12,7 @@
 
 Update on 2019/01/27.
 
-The implementation details of Base-OC and ASP-OC have been modified a little a month ago.
+The implementation details of Base-OC and ASP-OC have been modified long time ago.
 We can not ensure that you can reproduce the exact numbers of our current paper.
 
 You can achieve **82.0+** on the test set of Cityscapes with our Fast-OCNet easily.
