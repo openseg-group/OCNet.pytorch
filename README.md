@@ -12,6 +12,9 @@
 
 Update on 2019/01/27.
 
+The implementation details of Base-OC and ASP-OC have been modified a little a month ago.
+We can not ensure that you can reproduce the exact numbers of our current paper.
+
 You can achieve **82.0+** on the test set of Cityscapes with our Fast-OCNet easily.
 Here is the testing result [Fast-OCNet](https://www.cityscapes-dataset.com/anonymous-results/?id=a56405a7b05cf0d4a36b9be26f08a0e453e7b06c3f9e80e65a631a9516892caf)
 Please wait for the checkpoints and all the codes of [**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch).
