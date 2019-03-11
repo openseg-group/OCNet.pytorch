@@ -10,6 +10,10 @@
 
 </h2>
 
+Update on 2019/03/11.
+
+**We strongly recommend you to re-implement our approach on the code base [torchcv-seg](https://github.com/youansheng/torchcv-seg) and we also will release our updated implementation and all the checkpoints in future.**
+
 Update on 2019/01/27.
 
 **The implementation details of Base-OC and ASP-OC have been modified long time ago.
