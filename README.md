@@ -10,9 +10,9 @@
 
 </h2>
 
-Update on 2019/03/11.
+Update on 2019/05/27.
 
-**We strongly recommend you to re-implement our approach on the code base [torchcv-seg](https://github.com/youansheng/torchcv-seg) and we also will release our updated implementation and all the checkpoints in future.**
+**We strongly recommend you to star our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) and our approach achieves SOTA on all 6 benchmarks and outperforms all the previous approachs by more than 1%~2%.**
 
 Update on 2019/01/27.
 
