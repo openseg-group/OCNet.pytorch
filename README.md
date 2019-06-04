@@ -10,6 +10,10 @@
 
 </h2>
 
+Update on 2019/06/04.
+
+**We achieve 83.3116%+ on the lead board of Cityscapes based on single model HRNetV2 + OCR.**
+
 Update on 2019/05/27.
 
 **We strongly recommend you to star our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) and our approach achieves SOTA on all 6 benchmarks and outperforms all the previous approaches by more than 1%~2%.**
