@@ -39,7 +39,7 @@ from base_oc_block import BaseOC_Context_Module
 
 
 class ASP_OC_Module(nn.Module):
-    def __init__(self, features, out_features=512, dilations=(12, 24, 36)):
+    def __init__(self, features, out_features=256, dilations=(12, 24, 36)):
         super(ASP_OC_Module, self).__init__()
         self.context = nn.Sequential(nn.Conv2d(features, out_features, kernel_size=3, padding=1, dilation=1, bias=True),
                                    InPlaceABNSync(out_features),
@@ -55,8 +55,8 @@ class ASP_OC_Module(nn.Module):
                                    InPlaceABNSync(out_features))
 
         self.conv_bn_dropout = nn.Sequential(
-            nn.Conv2d(out_features * 5, out_features, kernel_size=1, padding=0, dilation=1, bias=False),
-            InPlaceABNSync(out_features),
+            nn.Conv2d(out_features * 5, out_features * 2, kernel_size=1, padding=0, dilation=1, bias=False),
+            InPlaceABNSync(out_features * 2),
             nn.Dropout2d(0.1)
             )
         
