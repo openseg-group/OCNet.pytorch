@@ -10,9 +10,13 @@
 
 </h2>
 
-Update on 2019/06/04.
+Update on 2019/07/94.
 
-**We achieve 83.3116%+ on the leaderboard of Cityscapes based on single model HRNet48V2 + OCR. More details will be shared in our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch)**
+**HRNet48V2 + OCR (w/ larger input resolution) can achieve 85%+ on the Cityscapes test set currently.**
+
+**We achieve 83.3116%+ on the leaderboard of Cityscapes based on single model HRNet48V2 + OCR [training w/o any tricks]. More details will be shared in our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch)**
+
+
 
 Update on 2019/05/27.
 
