@@ -10,7 +10,7 @@
 
 </h2>
 
-Update on 2019/07/94.
+Update on 2019/07/04.
 
 **HRNet48V2 + OCR (w/ larger input resolution) can achieve 83.5%+ on the Cityscapes test set currently.**
 
