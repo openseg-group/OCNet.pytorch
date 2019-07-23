@@ -12,7 +12,7 @@
 
 **News!!! 2019/07/23.**
 
-We achieve **Rank#1** on the leaderboard of Cityscapes (with a single model) the results will be public soon.
+We achieve **Rank#1** on the leaderboard of Cityscapes (with a single model) and the results will be public soon.
 
 
 2019/07/04.
