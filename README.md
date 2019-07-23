@@ -10,7 +10,12 @@
 
 </h2>
 
-Update on 2019/07/04.
+**News!!! 2019/07/23.**
+
+We achieve **Rank#1** on the leaderboard of Cityscapes (with a single model) the results will be public soon.
+
+
+2019/07/04.
 
 **HRNet48V2 + OCR (w/ larger input resolution) can achieve 83.5%+ on the Cityscapes test set currently.**
 
@@ -18,11 +23,12 @@ Update on 2019/07/04.
 
 
 
-Update on 2019/05/27.
+2019/05/27.
 
 **We strongly recommend you to star our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) and our approach achieves SOTA on all 6 benchmarks and outperforms all the previous approaches by more than 1%~2%.**
 
-Update on 2019/01/27.
+
+2019/01/27.
 
 **The implementation details of Base-OC and ASP-OC have been modified long time ago.
 We can not ensure that you can reproduce the exact numbers of our current paper.**
@@ -32,7 +38,7 @@ Here is the testing result [Fast-OCNet](https://www.cityscapes-dataset.com/anony
 Please wait for the checkpoints and all the codes of [**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch).
 
 
-Update on 2019/01/21.  
+2019/01/21.  
 
 We have fixed some issues of the paper and update the paper at [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
 
