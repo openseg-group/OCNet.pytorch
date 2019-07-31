@@ -10,7 +10,11 @@
 
 </h2>
 
-**News!!! 2019/07/23.**
+**News!!! 2019/07/31.**
+
+We have released the paper [ISA](https://arxiv.org/abs/1907.12273), which is very easy to use and implement while being much more efficient than the conventional self-attention based OCNet or DANet.
+
+**2019/07/23.**
 
 We achieve **Rank#1** on the leaderboard of Cityscapes (with a single model) and the results will be public soon.
 
@@ -62,12 +66,20 @@ Please check the paper updated [OCNet](https://arxiv.org/pdf/1809.00916.pdf) her
 You are welcome to share our work with your friends. [zhihu share](https://zhuanlan.zhihu.com/p/43902175)
 
 Please consider citing our work if you find it helps you,
+
 ```
 @article{yuan2018ocnet,
   title={Ocnet: Object context network for scene parsing},
-  author={Yuan, Yuhui and Wang, Jingdong},
+  author={Yuan Yuhui and Wang Jingdong},
   journal={arXiv preprint arXiv:1809.00916},
   year={2018}
+}
+
+@article{huang2019isa,
+  title={Interlaced Sparse Self-Attention for Semantic Segmentation},
+  author={Huang Lang and Yuan Yuhui and Guo Jianyuan and Zhang Chao and Chen Xilin and Wang Jingdong},
+  journal={arXiv preprint arXiv:1907.12273},
+  year={2019}
 }
 ```
 
