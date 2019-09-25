@@ -13,7 +13,11 @@ Thanks~
 
 </h2>
 
-**News!!! 2019/07/31.**
+**News!!! @ 2019/09/25.**
+
+We have released the paper [OCR](https://arxiv.org/abs/1909.11065), which is method of our **Rank#2** entry to the leaderboard of Cityscapes.
+
+**2019/07/31.**
 
 We have released the paper [ISA](https://arxiv.org/abs/1907.12273), which is very easy to use and implement while being much more efficient than the conventional self-attention based OCNet or DANet.
 
@@ -80,6 +84,13 @@ Please consider citing our work if you find it helps you,
   title={Interlaced Sparse Self-Attention for Semantic Segmentation},
   author={Huang Lang and Yuan Yuhui and Guo Jianyuan and Zhang Chao and Chen Xilin and Wang Jingdong},
   journal={arXiv preprint arXiv:1907.12273},
+  year={2019}
+}
+
+@article{yuan2019ocr,
+  title={Object-Contextual Representations for Semantic Segmentation},
+  author={Yuan Yuhui and Chen Xilin and Wang Jingdong},
+  journal={arXiv preprint arXiv:1909.11065},
   year={2019}
 }
 ```
