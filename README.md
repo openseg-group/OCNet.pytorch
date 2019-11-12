@@ -14,11 +14,12 @@
 
 
 <h2>
-- If you publish a paper that is closely related to our works or inspired by our works,
-we hope you can cite our works in your discussion about the related works.
+
+	
 ```diff
 + Our work is submitted to the arXiv on Tue, 4 Sep 2018.
 + The concurrent work DANet is submitted to the arXiv on Sun, 9 Sep 2018.
++ We hope you can cite our works in your discussions of the related works if it helps.
 ```
 </h2>
 
