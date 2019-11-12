@@ -1,18 +1,6 @@
 # OCNet: Object Context Network for Scene Parsing (pytorch) 
 
 
-<h2>
-- If you publish a paper that is closely related to our works or inspired by our works,
-it is the basic respect to us to cite our works in your discussion about the related works.
-Thanks~
-  
-```diff
-+ Our work is submitted to the arXiv on Tue, 4 Sep 2018.
-+ The concurrent work DANet is submitted to the arXiv on Sun, 9 Sep 2018.
-```
-
-</h2>
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/object-contextual-representations-for/semantic-segmentation-on-coco-stuff-test)](https://paperswithcode.com/sota/semantic-segmentation-on-coco-stuff-test?p=object-contextual-representations-for)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/object-contextual-representations-for/semantic-segmentation-on-pascal-context)](https://paperswithcode.com/sota/semantic-segmentation-on-pascal-context?p=object-contextual-representations-for)
@@ -24,6 +12,15 @@ Thanks~
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/object-contextual-representations-for/semantic-segmentation-on-cityscapes)](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes?p=object-contextual-representations-for)
 
+
+<h2>
+- If you publish a paper that is closely related to our works or inspired by our works,
+we hope you can cite our works in your discussion about the related works.
+```diff
++ Our work is submitted to the arXiv on Tue, 4 Sep 2018.
++ The concurrent work DANet is submitted to the arXiv on Sun, 9 Sep 2018.
+```
+</h2>
 
 **News!!! @ 2019/09/25.**
 
