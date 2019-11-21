@@ -26,7 +26,7 @@
 **News!!! @ 2019/11/20.**
 
 We have updated the paper [OCR](https://arxiv.org/abs/1909.11065), which is method of our **Rank#2** entry to the leaderboard of Cityscapes.
-We could achieve 83.9+ with a simple novel post-processing scheme.
+We could achieve **84.0%** with a simple novel post-processing scheme.
 
 **2019/07/31.**
 
