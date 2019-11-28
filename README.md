@@ -23,49 +23,28 @@
 ```
 </h2>
 
-**News!!! @ 2019/11/20.**
+**Update @ 2019/11/28.**
+We will release all of our [openseg.pytorch](https://github.com/PkuRainBow/openseg.pytorch) code within the future week to provide a strong baseline for the community, which supports all of our OCNet series.
+Besides, we also provide the support of OCR on the [HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/pytorch-v1.1) code base.
 
+**Update @ 2019/11/20.**
 We have updated the paper [OCR](https://arxiv.org/abs/1909.11065), which is method of our **Rank#2** entry to the leaderboard of Cityscapes.
 We could achieve **84.0%** with a simple novel post-processing scheme.
 
-**2019/07/31.**
-
+**Update @ 2019/07/31.**
 We have released the paper [ISA](https://arxiv.org/abs/1907.12273), which is very easy to use and implement while being much more efficient than the conventional self-attention based OCNet or DANet.
 
-**2019/07/23.**
-
+**Update @ 2019/07/23.**
 We achieve **Rank#1** on the leaderboard of Cityscapes (with a single model) and the results will be public soon.
 
 
-2019/07/04.
-
-**We achieve 83.3116%+ on the leaderboard of Cityscapes based on single model HRNet48V2 + OCR [training w/o any tricks]. More details will be shared in our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch)**
-
+**Update @ 2019/07/14.**
+We achieve 83.3116%+ on the leaderboard of Cityscapes based on single model HRNet48V2 + OCR [training w/o any tricks]. More details will be shared in our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch)
 
 
-2019/05/27.
 
-**We strongly recommend you to star our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) and our approach achieves SOTA on all 6 benchmarks and outperforms all the previous approaches by more than 1%~2%.**
-
-
-2019/01/27.
-
-**The implementation details of Base-OC and ASP-OC have been modified long time ago.
-We can not ensure that you can reproduce the exact numbers of our current paper.**
-
-You can achieve **82.0+** on the test set of Cityscapes with our Fast-OCNet easily.
-Here is the testing result [Fast-OCNet](https://www.cityscapes-dataset.com/anonymous-results/?id=a56405a7b05cf0d4a36b9be26f08a0e453e7b06c3f9e80e65a631a9516892caf)
-Please wait for the checkpoints and all the codes of [**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch).
-
-
-2019/01/21.  
-
-We have fixed some issues of the paper and update the paper at [OCNet](https://arxiv.org/pdf/1809.00916.pdf).
-
-[**openseg.pytorch**](https://github.com/openseg-group/openseg.pytorch) is released.
-
-We will share the source code of Fast-OCNet, which achieves comparable performance with the OCNet while consumes much less GPU memory and runs much faster than the counter part of OCNet.
-
+**Update @ 2019/05/27.**
+We strongly recommend you to star our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) and our approach achieves SOTA on all 6 benchmarks and outperforms all the previous approaches by more than 1%~2%.
 
 
 
