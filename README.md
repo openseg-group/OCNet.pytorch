@@ -23,6 +23,9 @@
 ```
 </h2>
 
+**Update @ 2020/01/07.**
+"HRNet+OCR[Mapillary+Coarse]" currently achieves **84.26%** with better Mapillary pretraining, where we pretrain the HRNet+OCR model on the original Mapillary train and achieve **50.8%** on Mapillary val. Our training settings are listed as below: 500,000 iterations, batch-size 16 and crop size 1024x1024. We believe our approach can futher benefit from more expensive training settings as in the recent Panoptic-DeepLab. We can expect higher performance with our novel post-processing mechanism.
+
 **Update @ 2019/11/28.**
 We will release all of our [openseg.pytorch](https://github.com/PkuRainBow/openseg.pytorch) code within the future week to provide a strong baseline for the community, which supports all of our OCNet series.
 Besides, we also provide the support of OCR on the [HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/pytorch-v1.1) code base.
