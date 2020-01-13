@@ -23,38 +23,37 @@
 ```
 </h2>
 
-**Update @ 2020/01/07.**
+## News
+
+- 2020/01/13
+The source code for reproduced [HRNet+OCR](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/HRNet-OCR) has been made public.
+
+- 2020/01/09
+"HRNet + OCR + SegFix" achieves **Rank#1** on Cityscapes leaderboard with mIoU as **84.5%**. 
+
+- 2020/01/07
 "HRNet+OCR[Mapillary+Coarse]" currently achieves **84.26%** with better Mapillary pretraining, where we pretrain the HRNet+OCR model on the original Mapillary train and achieve **50.8%** on Mapillary val. Our training settings are listed as below: 500,000 iterations, batch-size 16 and crop size 1024x1024. We believe our approach can futher benefit from more expensive training settings as in the recent Panoptic-DeepLab. We can expect higher performance with our novel post-processing mechanism.
 
-**Update @ 2019/11/28.**
+- 2019/11/28
 We will release all of our [openseg.pytorch](https://github.com/PkuRainBow/openseg.pytorch) code within the future week to provide a strong baseline for the community, which supports all of our OCNet series.
 Besides, we also provide the support of OCR on the [HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/pytorch-v1.1) code base.
 
-**Update @ 2019/11/20.**
+- 2019/11/20
 We have updated the paper [OCR](https://arxiv.org/abs/1909.11065), which is method of our **Rank#2** entry to the leaderboard of Cityscapes.
 We could achieve **84.0%** with a simple novel post-processing scheme.
 
-**Update @ 2019/07/31.**
+- 2019/07/31
 We have released the paper [ISA](https://arxiv.org/abs/1907.12273), which is very easy to use and implement while being much more efficient than the conventional self-attention based OCNet or DANet.
 
-**Update @ 2019/07/23.**
+- 2019/07/23
 We achieve **Rank#1** on the leaderboard of Cityscapes (with a single model) and the results will be public soon.
 
-
-**Update @ 2019/07/14.**
+- 2019/07/14
 We achieve 83.3116%+ on the leaderboard of Cityscapes based on single model HRNet48V2 + OCR [training w/o any tricks]. More details will be shared in our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch)
 
-
-
-**Update @ 2019/05/27.**
+- 2019/05/27
 We strongly recommend you to star our new code base [openseg.pytorch](https://github.com/openseg-group/openseg.pytorch) and our approach achieves SOTA on all 6 benchmarks and outperforms all the previous approaches by more than 1%~2%.
 
-
-
-
-OCNet achieves 81.67 on the test set of Cityscapes with multi-scale method [0.75x, 1x, 1.25x].
-
-OCNet achieves 45.45 on the validation set of ADE20K currently.
 
 ![Overall Framework of OCNet](OCNet.png?raw=true)
 
