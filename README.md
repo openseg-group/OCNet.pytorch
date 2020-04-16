@@ -25,6 +25,9 @@
 
 ## News
 
+- 2020/04/16
+We have released some of our checkpoints/logs of OCNet, OCR and SegFix in [openseg.pytorch](https://github.com/PkuRainBow/openseg.pytorch). Thanks for your patience.
+
 - 2020/01/13
 The source code for reproduced [HRNet+OCR](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/HRNet-OCR) has been made public.
 
