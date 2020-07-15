@@ -75,25 +75,32 @@ You are welcome to share our work with your friends. [zhihu share](https://zhuan
 Please consider citing our work if you find it helps you,
 
 ```
-@article{yuan2018ocnet,
+@article{YuanW18,
   title={Ocnet: Object context network for scene parsing},
-  author={Yuan Yuhui and Wang Jingdong},
-  journal={arXiv preprint arXiv:1809.00916},
+  author={Yuhui Yuan and Jingdong Wang},
+  booktitle={arXiv preprint arXiv:1809.00916},
   year={2018}
 }
 
-@article{huang2019isa,
+@article{HuangYGZCW19,
   title={Interlaced Sparse Self-Attention for Semantic Segmentation},
-  author={Huang Lang and Yuan Yuhui and Guo Jianyuan and Zhang Chao and Chen Xilin and Wang Jingdong},
-  journal={arXiv preprint arXiv:1907.12273},
+  author={Lang Huang and Yuhui Yuan and Jianyuan Guo and Chao Zhang and Xilin Chen and Jingdong Wang},
+  booktitle={arXiv preprint arXiv:1907.12273},
   year={2019}
 }
 
-@article{yuan2019ocr,
+@article{YuanCW20,
   title={Object-Contextual Representations for Semantic Segmentation},
-  author={Yuan Yuhui and Chen Xilin and Wang Jingdong},
-  journal={arXiv preprint arXiv:1909.11065},
-  year={2019}
+  author={Yuhui Yuan and Xilin Chen and Jingdong Wang},
+  booktitle={ECCV},
+  year={2020}
+}
+
+@article{YuanXCW20,
+  title={SegFix: Model-Agnostic Boundary Refinement for Segmentation},
+  author={Yuhui Yuan and Jingyi Xie and Xilin Chen and Jingdong Wang},
+  booktitle={ECCV},
+  year={2020}
 }
 ```
 
